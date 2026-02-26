@@ -1,0 +1,7 @@
+{
+  "name": "Cloud TK",
+  "description": "Aplikasi dokumentasi digital untuk taman kanak-kanak dengan penyimpanan cloud.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
